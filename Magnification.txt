@@ -1,0 +1,5 @@
+Made with the Orca camera in the setup.
+
+10 mu m devisions from thorlabs slide in bright field (a flashlight was put on top of the slide to press it down firmly and to light it well)
+
+Immersion oil was used and the translatable stage was at "4" for one of the turn things (the second smallest you can turn), (I dont know how it works)
